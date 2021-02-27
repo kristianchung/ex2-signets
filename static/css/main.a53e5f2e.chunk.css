@@ -1,0 +1,2 @@
+.Entete{position:-webkit-sticky;position:sticky;height:40px;margin:-10px;z-index:10;padding:10px 20px;background-color:#222;color:#fff;top:0;display:flex;align-items:center}.Entete .logo{margin-left:10px}.Entete .avatar{display:flex;align-items:center;position:absolute;float:right;right:1%}.Dossier{color:#fff;margin:10px}.Dossier .info{margin-left:15px}.ListeDossiers{display:flex;justify-content:center;flex-wrap:wrap;list-style-type:none}
+/*# sourceMappingURL=main.a53e5f2e.chunk.css.map */
